@@ -1,0 +1,11 @@
+=== FraudLens: Logistic Regression (balanced) ===
+
+              precision    recall  f1-score   support
+
+           0     0.9970    0.9991    0.9980     56863
+           1     0.9991    0.9970    0.9980     56863
+
+    accuracy                         0.9980    113726
+   macro avg     0.9980    0.9980    0.9980    113726
+weighted avg     0.9980    0.9980    0.9980    113726
+
